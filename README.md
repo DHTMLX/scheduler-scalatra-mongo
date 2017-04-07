@@ -25,4 +25,4 @@ run "sbt" in the demo folder:
 
 If `browse` doesn't launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.
 
-Read full tutorial here [http://www.dhtmlx.com/blog/using-scheduler-with-scalatra-framework-and-mongodb/](ttp://www.dhtmlx.com/blog/using-scheduler-with-scalatra-framework-and-mongodb/)
+Read full tutorial here [https://dhtmlx.com/blog/using-scheduler-scalatra-framework-mongodb/](https://dhtmlx.com/blog/using-scheduler-scalatra-framework-mongodb/)
